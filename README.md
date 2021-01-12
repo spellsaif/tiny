@@ -1,2 +1,1 @@
-# tiny
-tiniest npm module
+https://img.shields.io/npm/v/@spellsaif/tiny?color=blue&label=tiny
